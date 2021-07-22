@@ -16,10 +16,10 @@ Sou desenvolvedor web a mais de 10 anos, Gosto muito do que faço e estou sempre
     * .Net Core (3 anos)
     * C# (3 anos)
     * C/C++
-    * Java *(Manuteção em projeto usando a linguagem)*
-    * Delphi *(Manuteção em projeto usando a linguagem)*
-    * Visual Basic *(Manuteção em projeto usando a linguagem)*
-    * ASP.Net *(Manuteção em projeto usando a linguagem)*
+    * Java *(Manutenção em projeto usando a linguagem)*
+    * Delphi *(Manutenção em projeto usando a linguagem)*
+    * Visual Basic *(Manutenção em projeto usando a linguagem)*
+    * ASP.Net *(Manutenção em projeto usando a linguagem)*
 
 * Banco de Dados `*`
     * MySQL
